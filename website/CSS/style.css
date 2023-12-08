@@ -1,0 +1,58 @@
+body{
+    background-color: #05668D;
+}
+
+.nav-item{
+    padding: 2%;
+    margin-left: 20%;
+}
+
+
+#menuImage{
+    height: 4rem;
+    width: 4rem;
+}
+
+
+table{
+    background-color: #80B192;
+    margin-left: 10%;
+    width: 80%;
+}
+
+td{
+    margin: 3%;
+}
+
+section{
+    padding: 5%;
+    padding-left: 38%;
+    align-items: center;
+}
+
+
+footer{
+    padding: 5%;
+    text-align: center;
+}
+
+.card{
+    margin-top: 5%;
+    margin-left: 5%;
+}
+
+.card-body{
+    background: #7393B3;
+}
+
+.btn{
+    background: red;
+}
+
+.btn:hover{
+    background: #05668D;
+}
+
+#regForm{
+    text-align: center;
+}
